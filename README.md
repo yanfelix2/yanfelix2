@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/Q5IoolBUTRwAAAAM/saske-avatar.gif"  />
+<img align="right" height="100" src="https://media.tenor.com/Q5IoolBUTRwAAAAM/saske-avatar.gif"  />
 
 ###
 
@@ -30,11 +30,5 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yanfelix2/yanfelix2/output/snake.svg" alt="Snake animation" />
 
 ###
